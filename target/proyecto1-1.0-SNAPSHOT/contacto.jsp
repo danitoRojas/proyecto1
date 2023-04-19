@@ -14,6 +14,16 @@
     <body>
         <h1>Contacto</h1>
                 <%@include file="menu.jsp" %>
+                <form action="" method="post">
+                    <labe>Nombre</labe>
+                    <input type="text" name="nombre"><br><!-- comment -->
+                    <labe>Referencia </labe>
+                    <input type="text" name="referencia"><br>
+                    <labe>Mensaje</labe>
+                    <textare name="mensaje"></textare><br>
+                    <input type="submit">
+                </form>
+                
         <p>Un generador de contenidos de IA es un software que utiliza inteligencia artificial para crear diversos tipos de contenidos, para su sitio web, para el SEO, para los blogs, para la escuela o para universidad.
 
 El Generador de Texto es un software que permite crear textos de forma rápida y flexible, con excelentes resultados. El El contenido suele crearse con la ayuda de un asistente humano, proporcionar al software palabras clave, títulos, párrafos, frases y otros indicaciones específicas.</p>
