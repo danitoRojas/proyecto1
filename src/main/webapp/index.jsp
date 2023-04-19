@@ -13,5 +13,11 @@
     </head>
     <body>
         <h1>Pagina pricipal </h1>
+        <<ul>
+            <li>Inicio</li>
+            <li><a href="quienes.jsp">Quines somos</a></li>
+            <li>Contacto</li>
+        </ul>
+
     </body>
 </html>

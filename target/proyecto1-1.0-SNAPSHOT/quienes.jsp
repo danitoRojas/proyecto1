@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 18 abr. 2023, 18:48:21
+    Document   : quienes
+    Created on : 18 abr. 2023, 19:56:37
     Author     : Daniel
 --%>
 
@@ -12,12 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina pricipal </h1>
-        <<ul>
-            <li>Inicio</li>
-            <li><a href="quienes.jsp">Quines somos</a></li>
-            <li>Contacto</li>
-        </ul>
-
+        <h1>Hello World!</h1>
     </body>
 </html>
