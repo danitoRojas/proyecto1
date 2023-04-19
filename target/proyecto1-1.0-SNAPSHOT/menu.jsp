@@ -1,13 +1,10 @@
 
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
-</html>
+    <<ul>
+            <li>Inicio</li>
+            <li><a href="quienes.jsp">Quines somos</a></li>
+            <li><a href="services.jsp">ervicios</a></li>
+            <li><a href="portafolio.jsp">Portafolio</a></li>
+        <li><a href="contacto.jsp">Contactos</a></li>
+        </ul>

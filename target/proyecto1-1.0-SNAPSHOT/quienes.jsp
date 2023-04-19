@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Quines somos</h1>
+                <%@include file="menu.jsp" %>
         <<p>Con el generador de texto en línea puede procesar su Lorem Ipsum personal enriqueciéndola con elementos html que definen su estructura, con la posibilidad de insertar enlaces externos, pero no solo.
 
 ¡Ahora para componer un texto Lorem Ipsum es mucho más divertido!
